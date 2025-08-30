@@ -1,3 +1,3 @@
-# demo-roject
+# demo-project
 Handson Repository
 Author : Satyam Mishra
